@@ -5,6 +5,7 @@
 // @description  Replaces all matching URLs in TinyMCE HTML content and Web Link URL field (if present) with new URL.
 // @author       Daniel Victoriano <victorianowebdesign@gmail.com>
 // @match        https://fiu.blackboard.com/*
+// @updateURL    https://github.com/tidusx18/replace-urls/raw/master/replace-urls.user.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
