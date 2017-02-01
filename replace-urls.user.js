@@ -41,6 +41,7 @@ if (unsafeWindow.tinyMCE !== undefined && document.body.className == "ineditmode
     if (webUrl !== null) {
       if ( url.includes(oldUrl) ) {
         url = url.replace(regex, newUrl);
+        webUrl.value = url;
       }
     }
 
