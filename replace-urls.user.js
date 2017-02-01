@@ -17,8 +17,8 @@ if (unsafeWindow.tinyMCE !== undefined && document.body.className == "ineditmode
 
     var oldUrl, newUrl, tinyMCE, tinyMCEId, tinyMCEHtml, webUrl, regex;
 
-    oldUrl = "http://old-url.com";
-    newUrl = "http://new-url.com";
+    oldUrl = "fiuonline.mediasite.com";
+    newUrl = "fiuolmediasite.fiu.edu";
 
     // Get Editor instance by ID
     // Editor ID varies so get ID first
